@@ -6,3 +6,4 @@ I have completed my master in 2024
 I have some mistake in before line. 
 I have started my full stack web development job 2025
 logo alignment is centered
+new line is in feature branch
